@@ -1,5 +1,3 @@
-import PIL as Image
-import PIL as ImageDraw
 from PIL import Image, ImageDraw
 
 with open('DS4.txt') as f:
